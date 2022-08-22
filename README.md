@@ -1,4 +1,4 @@
-# **Silvana Paola Aguirre** | Fullstack Developer
+# **Silvana Paola Aguirre** | Fronted Developer
 
 | Email                                                 | LinkedIn                                                       | Residency     |
 | ----------------------------------------------------- | -------------------------------------------------------------- | ------------- |
