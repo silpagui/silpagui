@@ -1,4 +1,4 @@
-# **Silvana Paola Aguirre** | Fronted Developer
+# **Silvana Paola Aguirre** | Frontend Developer
 
 | Email                                                 | LinkedIn                                                       | Residency     |
 | ----------------------------------------------------- | -------------------------------------------------------------- | ------------- |
