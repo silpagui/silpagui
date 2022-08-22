@@ -1,4 +1,4 @@
-# **Silvana Paola Aguirre** | Frontend Developer
+# **Silvana Paola Aguirre** | Front End  Developer
 
 | Email                                                 | LinkedIn                                                       | Residency     |
 | ----------------------------------------------------- | -------------------------------------------------------------- | ------------- |
@@ -8,7 +8,7 @@
 
 **Languages**: English ( Professional Proficiency ), Spanish ( Native ), Portuguese ( Elementary proficiency ).
 
-**Specialties**: Fullstack development, internal/external trainer, soft skills, fast adaptability, fast learning.
+**Specialties**: Front end  development, internal/external trainer, soft skills, fast adaptability, fast learning.
 
 **Technical Skills**: React, Redux, Typescript, React Router DOM, Node, Express, HTML5, CSS3, Javascript, Axios, SCSS, Git, Figma
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am a fullstack developer, encouraged by challenges and focused on learning and applying knowledge.
+I am a front end  developer, encouraged by challenges and focused on learning and applying knowledge.
 
 During my years as a Technical College Teacher, and being really close to different technologies, I was always up to date on the latest software trends. Afterwards, I started my journey to HTML, CSS, Javascript and popular libraries such as React.js. Now, I feel ready to start a new position.
 
