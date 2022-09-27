@@ -18,7 +18,7 @@
 
 I am a front end  developer, encouraged by challenges and focused on learning and applying knowledge.
 
-During my years as a Technical College Teacher, and being really close to different technologies, I was always up to date on the latest software trends. Afterwards, I started my journey to HTML, CSS, Javascript and popular libraries such as React.js. Now, I feel ready to start a new position.
+During my years as a Technical Teacher, and being really close to different technologies, I was always up to date on the latest software trends. Afterwards, I started my journey to HTML, CSS, Javascript and popular libraries such as React.js. Now, I feel ready to start a new position.
 
 By having my background as a teacher, I've realised how hard it is for any new developer to find a clear path on one of the different courses related to front end development, but I never stopped; I built my career by using resources and the tech community’s help.
 
